@@ -1,4 +1,5 @@
-# Building-a-Data-Warehouse
+# Building a Data Warehouse ETL pipeline for Sparkify
+
 ## Introduction
 Spariky provides music streaming data to its users. The songs details and the user activity details are collected and stored in
 the form of JSON. This project helps spariky to make adhoc queries against their data using data warehousing concepts.
